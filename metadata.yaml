@@ -1,11 +1,16 @@
 _repo: Zetetic-astronomy-Earth-not-a-globe-An-experimental-inquiry-into-the-true-figure-of-the-earth__69892
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69892-h/images/cover.jpg
 creator:
   author:
     agent_name: Rowbotham, Samual Birley
     gutenberg_agent_id: '55479'
     url: http://www.gutenberg.org/2009/agents/55479
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69892#Zetetic-astronomy-Earth-not-a-globe-An-experimental-inquiry-into-the-true-figure-of-the-earth_
 gutenberg_issued: '2023-01-28'
 identifiers:
   gutenberg: '69892'
